@@ -37,9 +37,8 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 10px; }
 
-.modal-content{
-    color:black;
-}
+.modal-content {
+  color: black; }
 
 .carousel {
   background: #512DA8; }
